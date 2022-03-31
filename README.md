@@ -1,6 +1,6 @@
 # IRS-Disclosures
 ## Introduction
-The IRS-Disclosures project contains [DISCLOSURE REPORT FOR PUBLIC INSPECTION PURSUANT TO INTERNAL REVENUE CODE SECTION 6103(p)(3)(C)](https://www.jct.gov/search/?keyword=Disclosure%20report%20for%20public%20inspection%20pursuant%20to%20Internal%20Revenue%20code%20section%206103(p)(3)(C)&it=content) of calendar year 1996 to 2020, prepared by the Internal Revenue Service and published by Joint Committee on Taxation. This project is a digitization of the IRC 6103 disclosure reports.
+The IRS-Disclosures project contains [DISCLOSURE REPORT FOR PUBLIC INSPECTION PURSUANT TO INTERNAL REVENUE CODE SECTION 6103(p)(3)(C)](https://www.jct.gov/search/?keyword=Disclosure%20report%20for%20public%20inspection%20pursuant%20to%20Internal%20Revenue%20code%20section%206103(p)(3)(C)&it=content) for years 1996 to 2021, reporting data for 1995 to 2020. These reports are prepared by the Internal Revenue Service and published by Joint Committee on Taxation. This project is a digitization of the IRC 6103 disclosure reports.
 
 ## Project Detail
 Three files are included in this repo:
