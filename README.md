@@ -1,6 +1,6 @@
 # IRS-Disclosures
 ## Introduction
-The IRS-Disclosures project contains [DISCLOSURE REPORT FOR PUBLIC INSPECTION PURSUANT TO INTERNAL REVENUE CODE SECTION 6103(p)(3)(C)](https://www.jct.gov/search/?keyword=Disclosure%20report%20for%20public%20inspection%20pursuant%20to%20Internal%20Revenue%20code%20section%206103(p)(3)(C)&it=content) for calendar years 1995 to 2020. These reports are prepared by the Internal Revenue Service and published by Joint Committee on Taxation. This project is a digitization of the IRC 6103 disclosure reports.
+The IRS-Disclosures project contains counts from [DISCLOSURE REPORT FOR PUBLIC INSPECTION PURSUANT TO INTERNAL REVENUE CODE SECTION 6103(p)(3)(C)](https://www.jct.gov/search/?keyword=Disclosure%20report%20for%20public%20inspection%20pursuant%20to%20Internal%20Revenue%20code%20section%206103(p)(3)(C)&it=content) for calendar years 1995 to 2021. These reports are prepared by the Internal Revenue Service and published by the Joint Committee on Taxation. 
 
 ## Project Detail
 Three files are included in this repo:
@@ -17,10 +17,10 @@ Three files are included in this repo:
 > The number of disclosures of tax information depends on the type of record disclosed and what constitutes a record subject to disclosure accounting. Generally, when the IRS discloses some part of one taxpayer’s record for one tax year or period, the IRS counts that as one disclosure. For example, if the IRS discloses a return transcript to a state tax agency, the IRS counts one disclosure for every tax year each time a transcript is disclosed. If the agency receives a transcript for two tax years, the IRS counts that as two disclosures. If the agency receives three different transcripts for the same taxpayer and tax year, the IRS counts three disclosures since each transcript is a separate record.
 
 
-### Note
-- In all three forms, the row 'SUM' is the summation of number of disclosure under all categories (Disclosure To/For, IRC Section 6103 subsection). 'SUM' is calculated by this project's contributors. 'TOTALS' is the total number of disclsure under all categories, announced by the original IRC 6103 reports. Please be aware that 'SUM' and 'TOTALS' showing some mismatches in some of the years. The reason of these mismatches is unclear. Suggest consulting the publisher of reports.
+### Notes
+- In all three forms, the row 'SUM' adds disclosures across all IRC Section 6103 subsection, as calculated by this project. The row 'TOTALS' is from the original IRC 6103 reports. The reason for mismatches between 'SUM' and 'TOTAL' is still unclear. 
 
-- To be noticed: the disclosure numbers of Social Security Administration 6103(l)(20) & Bureau of Economic Analysis of the year 2012 & 2013 have been corrected; the disclosure numbers of Child Support Enforcement Agencies 6103(l)(6) of the year 2013, 2014 & 2015 have been corrected, as documented in pg 5 of JCX-89-15 and pg 6 of JCX-32-16. So the disclosure numbers of these items are different from the ones in original disclosure reports.
+- Corrections reported in later years have been updated in prior years here, so the disclosure numbers may in some cases differ from the original reports. Disclosure counts for Social Security Administration 6103(l)(20) & Bureau of Economic Analysis in the years 2012 & 2013 have been corrected; the disclosure counts of Child Support Enforcement Agencies 6103(l)(6) in the years 2013, 2014 & 2015 have been corrected. See pg 5 of JCX-89-15 and pg 6 of JCX-32-16 for the corrections. 
 
 ### Reference
-The Joint Committee on Taxation & Internal Revenue Service (1996-2020). Disclosure Report For Public Inspection Pursuant To Internal Revenue Code Section 6103(p)(3)(C) 
+The Joint Committee on Taxation & Internal Revenue Service (1996-2021). Disclosure Report For Public Inspection Pursuant To Internal Revenue Code Section 6103(p)(3)(C) 
